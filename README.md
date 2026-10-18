@@ -2,7 +2,7 @@
 
 Proyecto final del curso Building AI.
 
-## Descripción
+## Resumen 
 Repositorio para el proyecto final del curso Edificio-ai-final.
 
 ## Objetivo
