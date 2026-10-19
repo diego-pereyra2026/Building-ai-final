@@ -12,5 +12,5 @@ Crear un sistema de vision por computadora que analice camaras en tiempo real, d
 # Datos
 Videos anonimizados de camaras publicas y reportes de incidentes, todos anonimizados.
 
-## Consideraciones éticas
+# Consideraciones éticas
 El sistema solo funcionara en espacios publicos con carteles informativos. Se protegera la privacidad con anonimizado y borrado automatico de videos despues de 24 horas.
