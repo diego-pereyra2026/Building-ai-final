@@ -1,3 +1,5 @@
+# Sistema de Seguridad Inteligente - La Matanza
+
 ## Resumen
 Este proyecto final del curso Building AI propone un sistema inteligente para mejorar la seguridad en barrios de La Matanza. El sistema utiliza inteligencia artificial para analizar video de camaras y detectar situaciones anormales, generando alertas preventivas.
 
