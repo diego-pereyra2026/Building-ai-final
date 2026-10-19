@@ -1,17 +1,16 @@
 # Building-ai-final
-Proyecto final del curso Building AI - Construyendo IA.
 
 ## Resumen
-Este repositorio corresponde al proyecto final del curso Building AI de Elements of AI. En este proyecto aplico los conceptos aprendidos sobre inteligencia artificial para analizar y proponer una solucion de IA para mejorar la seguridad en barrios del conurbano mediante monitoreo inteligente de camaras y alertas preventivas.
+Este proyecto final del curso Building AI propone un sistema inteligente para mejorar la seguridad en barrios de La Matanza. El sistema utiliza inteligencia artificial para analizar video de camaras y detectar situaciones anormales, generando alertas preventivas.
 
 ## El problema
-La falta de monitoreo en tiempo real en barrios de La Matanza genera demoras en la respuesta ante incidentes de seguridad.
+En barrios del conurbano falta monitoreo en tiempo real, lo que provoca demoras ante incidentes de seguridad.
 
 ## Mi solucion con IA
-Propongo un sistema de IA que analice video de camaras de seguridad para detectar comportamientos anormales, enviar alertas automaticas a personal de seguridad y generar reportes diarios.
+Crear un sistema de vision por computadora que analice camaras en tiempo real, detecte comportamientos anormales y envie alertas automaticas por WhatsApp a referentes barriales.
 
 ## Datos
-Videos anonimizados de camaras, reportes de incidentes previos y datos de horarios de mayor incidencia.
+Videos anonimizados de camaras publicas y reportes de incidentes, todos anonimizados.
 
 ## Consideraciones eticas
-Respeto a la privacidad, uso solo de espacios publicos y consentimiento informado.
+El sistema solo funcionara en espacios publicos con carteles informativos. Se protegera la privacidad con anonimizado y borrado automatico de videos despues de 24 horas.
